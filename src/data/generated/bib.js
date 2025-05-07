@@ -3,9 +3,10 @@ define({ entries : {
         "author": "Ren, Zeyu and Kong, Xiangyu and Zhang, Yudong and Wang, Shuihua",
         "doi": "10.1109/OJEMB.2023.3305190",
         "journal": "IEEE Open Journal of Engineering in Medicine and Biology",
-        "keywords": "Biomedical imaging;Image augmentation;Semisupervised learning;Semantics;Self-supervised learning;Deep learning;Image analysis;Image classification;Deep learning;self-supervised learning;medical image analysis;semi-supervised learning;image classification", methods: Conflict graph, methods: Mixed integer programming, benchmarks:ITC2019, classes:UTT,
-        "pages": "459-466",
+        %%"keywords": "Biomedical imaging;Image augmentation;Semisupervised learning;Semantics;Self-supervised learning;Deep learning;Image analysis;Image classification;Deep learning;self-supervised learning;medical image analysis;semi-supervised learning;image classification",%%
         "title": "UKSSL: Underlying Knowledge Based Semi-Supervised Learning for Medical Image Classification",
+        "keywords": "methods: Conflict graph, methods: Mixed integer programming, benchmarks:ITC2019, classes:UTT",
+        "pages": "459-466",
         "type": "ARTICLE",
         "volume": "5",
         "year": "2024"
