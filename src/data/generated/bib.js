@@ -5,9 +5,8 @@ define({ entries : {
         "classes": "Learning Strategy Enhancements",
         "doi": "10.1109/OJEMB.2023.3305190",
         "journal": "IEEE Open Journal of Engineering in Medicine and Biology",
-        "keywords": "Biomedical imaging;Image augmentation;Semisupervised learning;Semantics;Self-supervised learning;Deep learning;Image analysis;Image classification;Deep learning;self-supervised learning;medical image analysis;semi-supervised learning;image classification",
+        "keywords": "Biomedical imaging;Image augmentation;Semisupervised learning;Semantics;Self-supervised learning;Deep learning;Image analysis;Image classification;Deep learning;self-supervised learning;medical image analysis;semi-supervised learning;image classification", methods: Conflict graph, methods: Mixed integer programming, benchmarks:ITC2019, classes:UTT
         "methods": "Semi-supervised Learning, Knowledge-guided",
-        "number": "",
         "pages": "459-466",
         "title": "UKSSL: Underlying Knowledge Based Semi-Supervised Learning for Medical Image Classification",
         "type": "ARTICLE",
