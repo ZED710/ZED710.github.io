@@ -8,7 +8,6 @@ define({ entries : {
         "title": "UKSSL: Underlying Knowledge Based Semi-Supervised Learning for Medical Image Classification",
         "type": "ARTICLE",
         "volume": "5",
-        keywords = {classes:Learning Strategy Enhancements},
         "year": "2024"
     },
     "7064414": {
