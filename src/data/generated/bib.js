@@ -4,7 +4,6 @@ define({ entries : {
         "doi": "10.1109/OJEMB.2023.3305190",
         "journal": "IEEE Open Journal of Engineering in Medicine and Biology",
         "keywords": "Biomedical imaging;Image augmentation;Semisupervised learning;Semantics;Self-supervised learning;Deep learning;Image analysis;Image classification;Deep learning;self-supervised learning;medical image analysis;semi-supervised learning;image classification",
-        "number": "",
         "pages": "459-466",
         "title": "UKSSL: Underlying Knowledge Based Semi-Supervised Learning for Medical Image Classification",
         "type": "ARTICLE",
@@ -16,7 +15,7 @@ define({ entries : {
         "booktitle": "2014 13th International Conference on Control Automation Robotics & Vision (ICARCV)",
         "doi": "10.1109/ICARCV.2014.7064414",
         "keywords": "Feature extraction;Lungs;Training;Neurons;Biological neural networks;Biomedical imaging;Kernel",
-        "number": "",
+
         "pages": "844-848",
         "title": "Medical image classification with convolutional neural network",
         "type": "INPROCEEDINGS",
@@ -28,7 +27,7 @@ define({ entries : {
         "doi": "10.1109/ACCESS.2020.2981337",
         "journal": "IEEE Access",
         "keywords": "Medical diagnostic imaging;Feature extraction;Deep learning;Solid modeling;Cancer;IoMT;classification;deep learning;medical image;features;Crow search algorithm;optimization",
-        "number": "",
+
         "pages": "58006-58017",
         "title": "Optimal Feature Selection-Based Medical Image Classification Using Deep Learning Model in Internet of Medical Things",
         "type": "ARTICLE",
@@ -40,7 +39,7 @@ define({ entries : {
         "doi": "10.1109/ACCESS.2020.2998808",
         "journal": "IEEE Access",
         "keywords": "Medical diagnostic imaging;Feature extraction;Deep learning;Neural networks;Convolution;Big Data;Medical image classification;pre-trained DCNN;convolution neural network;big data;image analysis;image enhancement;biomedical image processing;deep learning",
-        "number": "",
+
         "pages": "105659-105670",
         "title": "Deep Convolution Neural Network for Big Data Medical Image Classification",
         "type": "ARTICLE",
@@ -52,7 +51,7 @@ define({ entries : {
         "doi": "10.1109/ACCESS.2022.3182399",
         "journal": "IEEE Access",
         "keywords": "Pipelines;Image classification;Neural networks;Deep learning;COVID-19;Training;Microwave integrated circuits;Medical image classification;ensemble learning;deep learning;medical imaging;stacking;bagging;test-time augmentation",
-        "number": "",
+
         "pages": "66467-66480",
         "title": "An Analysis on Ensemble Learning Optimized Medical Image Classification With Deep Convolutional Neural Networks",
         "type": "ARTICLE",
