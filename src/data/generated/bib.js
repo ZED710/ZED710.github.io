@@ -8,6 +8,7 @@ define({ entries : {
         "title": "UKSSL: Underlying Knowledge Based Semi-Supervised Learning for Medical Image Classification",
         "type": "ARTICLE",
         "volume": "5",
+        keywords = {methods: Conflict graph, methods: Mixed integer programming, benchmarks:ITC2019, classes:UTT},
         "year": "2024"
     },
     "7064414": {
