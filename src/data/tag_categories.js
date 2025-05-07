@@ -1,7 +1,7 @@
 define({
 	tagCategories: {
-		"type": {
-			"description": "type of the paper"
+		"Keywords": {
+			"description": "keywords of the paper"
 		}
 	}
 });
