@@ -1,7 +1,14 @@
 define({
 	tagCategories: {
-		"Keywords": {
-			"description": "keywords of the paper"
+		"methods": {
+			"description": "methods of the paper" 
+		},
+		"benchmarks": {
+			"description": "benchmarks of the paper" 
+		},
+		"classes": {
+			"description": "classifications of the paper" 
 		}
 	}
-});
+})
+
