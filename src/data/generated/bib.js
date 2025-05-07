@@ -3,7 +3,7 @@ define({ entries : {
         "author": "Ren, Zeyu and Kong, Xiangyu and Zhang, Yudong and Wang, Shuihua",
         "doi": "10.1109/OJEMB.2023.3305190",
         "journal": "IEEE Open Journal of Engineering in Medicine and Biology",
-       "keywords" : "methods: Conflict graph, methods: Mixed integer programming, benchmarks:ITC2019, classes:UTT",
+        "keywords" : "Biomedical imaging;Image augmentation;Semisupervised learning;Semantics;Self-supervised learning;Deep learning;Image analysis;Image classification;Deep learning;self-supervised learning;medical image analysis;semi-supervised learning;image classification,methods: Semi-supervised Learning, Knowledge-guided, benchmarks:Lung CT, Heart MRI, classes:CNN-based Methods",
         "pages": "459-466",
         "title": "UKSSL: Underlying Knowledge Based Semi-Supervised Learning for Medical Image Classification",
         "type": "ARTICLE",
