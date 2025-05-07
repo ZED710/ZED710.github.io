@@ -107,6 +107,7 @@ define({ entries : {
         "type": "article",
         "url": "https://www.sciencedirect.com/science/article/pii/S1361841518307552",
         "volume": "54",
+        "keywords":"Medical image classification, Intra-class variationInter,class similarity,Synergic deep learning model",
         "year": "2019"
     },
     "ZHANG202091": {
